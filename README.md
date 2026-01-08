@@ -6,7 +6,7 @@
   👨‍💻 Yasith Buddhima
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Flutter+%F0%9F%90%AC+Firebase+%F0%9F%94%A5+Lover;Let's+build+something+amazing+together!" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let's+build+something+amazing!" alt="Typing animation" />
 
 </div>
 
