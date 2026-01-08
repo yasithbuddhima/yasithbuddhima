@@ -40,10 +40,10 @@
 
 <p align="center">
   <a href="https://github.com/yasithbuddhima/GradMate" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasithbuddhima&repo=GradMate&description_lines_count=2" alt="GradMate Repo" width="45%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yasithbuddhima&repo=GradMate&description_lines_count=2" alt="GradMate Repo" " />
   </a>
   <a href="https://github.com/yasithbuddhima/Mark-Management-System" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasithbuddhima&repo=Mark-Management-System&description_lines_count=2" alt="Mark Management System Repo" width="45%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=yasithbuddhima&repo=mark-management-system&description_lines_count=2" alt="Mark Management System Repo" " />
   </a>
 </p>
 
@@ -369,13 +369,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasithbuddhima&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasithbuddhima&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yasithbuddhima&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=yasithbuddhima&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasithbuddhima&layout=compact&theme=radical&show_icons=true" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yasithbuddhima&layout=compact&theme=radical&show_icons=true" 
     alt="Top Languages" 
     width="45%" 
   />
@@ -393,7 +393,7 @@
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasithbuddhima&theme=radical&no-frame=true&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=yasithbuddhima&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
